@@ -7,7 +7,7 @@ Copyleft 2021-2022 furious programming. All rights reversed.
 
 PC clone of the official classic **[Nintendo Tetris®](https://en.wikipedia.org/wiki/Tetris_(NES_video_game))** game for the **[NES](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)** console, intended for Windows and Linux systems. It implements and slightly extends the original mechanics, supports two themes and includes many regional versions and several random piece generators. All in one native executable.
 
-Ready to play like a true master? **[Download the game](https://github.com/furious-programming/Fairtris/releases/download/v3.0.0.4/Fairtris_3.0_release.zip)** and show off!
+Ready to play like a true master? **[Download the game](https://github.com/g-maxim-u/Fairtris/releases/tag/v3.0.0.4)** and show off!
 
 </br></br>
 
@@ -53,40 +53,40 @@ This project was initially created as a tool to test various RNG algorithms, but
 # Table of content
 
 **General:**
-* [Introduction](https://github.com/furious-programming/Fairtris/wiki)
-* [First launch](https://github.com/furious-programming/Fairtris/wiki/first-launch)
-* [Default controls](https://github.com/furious-programming/Fairtris/wiki/default-controls)
+* [Introduction](https://github.com/g-maxim-u/Fairtris/wiki)
+* [First launch](https://github.com/g-maxim-u/Fairtris/wiki/first-launch)
+* [Default controls](https://github.com/g-maxim-u/Fairtris/wiki/default-controls)
 
 **Game screens:**
-* [Introduction](https://github.com/furious-programming/Fairtris/wiki/game-scenes)
-* [Prime menu](https://github.com/furious-programming/Fairtris/wiki/prime-menu)
-* [Game modes:](https://github.com/furious-programming/Fairtris/wiki/game-modes)
-    * [Free marathon](https://github.com/furious-programming/Fairtris/wiki/free-marathon)
-    * [Free speedrun](https://github.com/furious-programming/Fairtris/wiki/free-speedrun)
-    * [Marathon qualifications](https://github.com/furious-programming/Fairtris/wiki/marathon-qualifications)
-    * [Marathon match](https://github.com/furious-programming/Fairtris/wiki/marathon-match)
-    * [Speedrun qualifications](https://github.com/furious-programming/Fairtris/wiki/speedrun-qualifications)
-    * [Speedrun match](https://github.com/furious-programming/Fairtris/wiki/speedrun-match)
+* [Introduction](https://github.com/g-maxim-u/Fairtris/wiki/game-scenes)
+* [Prime menu](https://github.com/g-maxim-u/Fairtris/wiki/prime-menu)
+* [Game modes:](https://github.com/g-maxim-u/Fairtris/wiki/game-modes)
+    * [Free marathon](https://github.com/g-maxim-u/Fairtris/wiki/free-marathon)
+    * [Free speedrun](https://github.com/g-maxim-u/Fairtris/wiki/free-speedrun)
+    * [Marathon qualifications](https://github.com/g-maxim-u/Fairtris/wiki/marathon-qualifications)
+    * [Marathon match](https://github.com/g-maxim-u/Fairtris/wiki/marathon-match)
+    * [Speedrun qualifications](https://github.com/g-maxim-u/Fairtris/wiki/speedrun-qualifications)
+    * [Speedrun match](https://github.com/g-maxim-u/Fairtris/wiki/speedrun-match)
 * **Gameplay:**
-    * [Marathon](https://github.com/furious-programming/Fairtris/wiki/marathon)
-    * [Speedrun](https://github.com/furious-programming/Fairtris/wiki/speedrun)
-* [Game pause](https://github.com/furious-programming/Fairtris/wiki/game-pause)
+    * [Marathon](https://github.com/g-maxim-u/Fairtris/wiki/marathon)
+    * [Speedrun](https://github.com/g-maxim-u/Fairtris/wiki/speedrun)
+* [Game pause](https://github.com/g-maxim-u/Fairtris/wiki/game-pause)
 * **Game statistics:**
-    * [Marathon summary](https://github.com/furious-programming/Fairtris/wiki/marathon-summary)
-    * [Speedrun summary](https://github.com/furious-programming/Fairtris/wiki/speedrun-summary)
-* [Game options:](https://github.com/furious-programming/Fairtris/wiki/game-options)
-    * [Set up keyboard](https://github.com/furious-programming/Fairtris/wiki/set-up-keyboard)
-    * [Set up controller](https://github.com/furious-programming/Fairtris/wiki/set-up-controller)
+    * [Marathon summary](https://github.com/g-maxim-u/Fairtris/wiki/marathon-summary)
+    * [Speedrun summary](https://github.com/g-maxim-u/Fairtris/wiki/speedrun-summary)
+* [Game options:](https://github.com/g-maxim-u/Fairtris/wiki/game-options)
+    * [Set up keyboard](https://github.com/g-maxim-u/Fairtris/wiki/set-up-keyboard)
+    * [Set up controller](https://github.com/g-maxim-u/Fairtris/wiki/set-up-controller)
 
 **Game specifics:**
-* [Game regions](https://github.com/furious-programming/Fairtris/wiki/game-regions)
-* [RNG algorithms](https://github.com/furious-programming/Fairtris/wiki/rng-algorithms)
+* [Game regions](https://github.com/g-maxim-u/Fairtris/wiki/game-regions)
+* [RNG algorithms](https://github.com/g-maxim-u/Fairtris/wiki/rng-algorithms)
 
 **More help:**
-* [FAQ](https://github.com/furious-programming/Fairtris/wiki/faq)
-* [Acknowledgments and links](https://github.com/furious-programming/Fairtris/wiki/acknowledgments-and-links)
+* [FAQ](https://github.com/g-maxim-u/Fairtris/wiki/faq)
+* [Acknowledgments and links](https://github.com/g-maxim-u/Fairtris/wiki/acknowledgments-and-links)
 
-Click on one of the links above to go to the **[project wiki](https://github.com/furious-programming/fairtris/wiki)**. If you want, you can also check out the **[FAQ](https://github.com/furious-programming/Fairtris/wiki/faq)** page where you will find answers to basic questions.
+Click on one of the links above to go to the **[project wiki](https://github.com/g-maxim-u/fairtris/wiki)**. If you want, you can also check out the **[FAQ](https://github.com/g-maxim-u/Fairtris/wiki/faq)** page where you will find answers to basic questions.
 
 </br>
 
@@ -100,7 +100,7 @@ Information on the license can be found in the **[LICENSE](LICENSE)** file. In g
 
 **Fairtris** mainly targets 64-bit **Windows** systems, versions `Vista`, `7`, `8`, `8.1`, `10` and `11`. In the future, its clones for other platforms may appear — if someone decides to fork this repository and modify the game source code. Currently available releases:
 
-* **[Fairtris for Windows](https://github.com/furious-programming/fairtris)** by **[furious programming](https://github.com/furious-programming)**
+* **[Fairtris for Windows](https://github.com/g-maxim-u/fairtris)** by **[furious programming](https://github.com/g-maxim-u)**
 * **[Fairtris for Linux](https://github.com/chronoscz/fairtris)** by **[chronoscz](https://github.com/chronoscz)** (see also the **[snapcraft](https://snapcraft.io/fairtris)** release)
 * **[Fairtris for ArchLinux](https://aur.archlinux.org/packages/fairtris-git/)** by **[loooph](https://github.com/loooph)**
 
